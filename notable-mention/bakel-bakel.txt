@@ -1,2 +1,3 @@
 Name, Linkedin, Role
 Bakel Bakel Begededum , https://www.linkedin.com/in/bakel-bakel-6341a7150/ , Lead Instructor
+Samuel Taiwo , https://www.linkedin.com/in/samuel-taiwo-oladipupo/ , Student
